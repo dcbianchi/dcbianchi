@@ -1,0 +1,4 @@
+- 👋 Hellor word, I’m @dcbianchi
+- 👀 I’m interested in coding, coffee ans Swordplay(softcombat)
+- 🌱 I’m currently learning HTML5 | CSS3 | JavaScript | Python 
+- 📫 How to reach me https://www.linkedin.com/in/dcbianchi/
