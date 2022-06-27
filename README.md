@@ -1,6 +1,6 @@
-👋 Hellor word, I’m @dcbianchi
-👀 I’m interested in coding, coffee and Swordplay(softcombat)
-🌱 I’m currently learning HTML5 | CSS3 | JavaScript | Python | GIT AND GITHUB
+👋 Hellor word, I’m @dcbianchi<br>
+👀 I’m interested in coding, coffee and Swordplay(softcombat)<br>
+🌱 I’m currently learning HTML5 | CSS3 | JavaScript | Python | GIT AND GITHUB<br>
 📫 How to reach me: 
   <UL>
     <li><a href= "https://www.linkedin.com/in/dcbianchi/" >👜 Linkedin/Dcbianchi </a></li>
