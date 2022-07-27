@@ -3,7 +3,7 @@
 🌱 I’m currently learning HTML5 | CSS3 | JavaScript | GIT AND GITHUB<br>
 📫 How to reach me: 
   <p align="left">
-    <a href= "https://www.linkedin.com/in/dcbianchi/" target="blank"><img aling="center" src="https://github.com/img/linkedin.svg)> </a>
+    <a href= "https://www.linkedin.com/in/dcbianchi/" target="blank"><img aling="center" src="https://github.com/dcbianchi/dcbianchi/blob/main/img/linkedin.svg" title="linkedin" alt="" height="30" /></a>
     <a href= "https://www.instagram.com/dc_bianchi/"> 📷 Instagram/dc_bianchi </a>
   </p>
 
