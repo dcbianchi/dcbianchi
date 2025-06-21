@@ -1,5 +1,6 @@
 👋 Hello world, I’m @dcbianchi<br>
 👀 I’m interested in coding, coffee and Swordplay(softcombat)<br>
+👨‍🏫 I know that i stayed long time no coding, but i finished a Licenciatura in History, now I'm a Teacher too ^^)
 🌱 I’m currently learning JavaScript | PHP | PYTHON <br>
 📫 How to reach me: 
 
