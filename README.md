@@ -1,6 +1,6 @@
 👋 Hello world, I’m @dcbianchi<br>
 👀 I’m interested in coding, coffee and Swordplay(softcombat)<br>
-🌱 I’m currently learning HTML5 | CSS3 | JavaScript | GIT AND GITHUB<br>
+🌱 I’m currently learning JavaScript | PHP | PYTHON <br>
 📫 How to reach me: 
 
   <p align="left">
